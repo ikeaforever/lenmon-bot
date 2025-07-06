@@ -26,7 +26,7 @@ The project is divided into two main scripts:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:ikeaforever/lenmon-bot.git
     cd lemon-bot
     ```
 
